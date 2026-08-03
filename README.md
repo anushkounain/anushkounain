@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi, I'm Anush.
+# Anush Kounain
 
 ### AI Developer • Computer Vision • UI/UX Designer
 
-Building intelligent applications that combine artificial intelligence, computer vision, and thoughtful user experiences.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Vision;Artificial+Intelligence;UI%2FUX+Design" />
+Building AI-powered applications with a focus on computer vision and intuitive user experiences.
 
 </div>
 
@@ -14,9 +12,9 @@ Building intelligent applications that combine artificial intelligence, computer
 
 ## About
 
-I'm a BCA student specializing in **Artificial Intelligence & Machine Learning**, passionate about building practical AI solutions for real-world problems.
+I'm a BCA student specializing in Artificial Intelligence & Machine Learning, passionate about building practical AI solutions that solve real-world problems.
 
-My interests lie at the intersection of **Computer Vision**, **Artificial Intelligence**, and **UI/UX Design**, where I enjoy transforming ideas into intelligent and user-friendly applications.
+My interests span computer vision, artificial intelligence, and UI/UX design, where I enjoy turning ideas into products that are both intelligent and user-friendly.
 
 ---
 
@@ -28,13 +26,13 @@ My interests lie at the intersection of **Computer Vision**, **Artificial Intell
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=dark"/>
 </p>
 
-### Technologies
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,figma,mongodb&theme=dark"/>
 </p>
 
-**Core Technologies**
+### AI & Machine Learning
 
 OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio • Machine Learning
 
@@ -44,15 +42,15 @@ OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio • Machine Learning
 
 ### HydroVisionAI
 
-An AI-powered smart city surveillance platform that detects flooded roads, monitors vehicles and pedestrians, and generates real-time alerts using computer vision.
+An AI-powered smart city surveillance platform designed to detect flooded roads, monitor vehicles and pedestrians, and generate real-time alerts using computer vision.
 
-**Built With**
+**Tech Stack**
 
 Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 
 **Repository**
 
-[View HydroVisionAI →](https://github.com/anushkounain/HydroVision-AI)
+[HydroVisionAI](https://github.com/anushkounain/HydroVision-AI)
 
 ---
 
@@ -78,5 +76,19 @@ Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/anush-kounain/)
-- [Email](anushkounain45@gmail.com)
+LinkedIn
+https://www.linkedin.com/in/anush-kounain/
+
+Behance
+https://www.behance.net/anushkounain
+
+Email
+<a href="mailto:anushkounain45@gmail.com">anushkounain45@gmail.com</a>
+
+---
+
+<div align="center">
+
+<i>Coffee, code, and a little curiosity.</i>
+
+</div>
