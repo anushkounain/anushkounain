@@ -4,9 +4,9 @@
 
 ### AI Developer • Computer Vision • UI/UX Designer
 
-Building intelligent applications with a focus on computer vision, AI, and thoughtful user experiences.
+Building intelligent applications that combine artificial intelligence, computer vision, and thoughtful user experiences.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Vision;Artificial+Intelligence;UI%2FUX+Design;Building+Real-World+AI+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Vision;Artificial+Intelligence;UI%2FUX+Design" />
 
 </div>
 
@@ -14,23 +14,29 @@ Building intelligent applications with a focus on computer vision, AI, and thoug
 
 ## About
 
-I'm a BCA student specializing in Artificial Intelligence & Machine Learning with a passion for building practical AI solutions.
+I'm a BCA student specializing in **Artificial Intelligence & Machine Learning**, passionate about building practical AI solutions for real-world problems.
 
-I enjoy taking projects from idea to implementation by combining artificial intelligence, computer vision, and intuitive UI/UX design to create products that solve real-world problems.
+My interests lie at the intersection of **Computer Vision**, **Artificial Intelligence**, and **UI/UX Design**, where I enjoy transforming ideas into intelligent and user-friendly applications.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mongodb,git,github,vscode,figma&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=dark"/>
+</p>
 
-</div>
+### Technologies
 
-### AI & Development
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,mongodb&theme=dark"/>
+</p>
 
-`Computer Vision` • `YOLOv11` • `OpenCV` • `Google AI Studio` • `Machine Learning`
+**Core Technologies**
+
+OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio • Machine Learning
 
 ---
 
@@ -42,11 +48,11 @@ An AI-powered smart city surveillance platform that detects flooded roads, monit
 
 **Built With**
 
-`Python` • `OpenCV` • `YOLOv11` • `TensorFlow.js` • `Google AI Studio`
+Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 
 **Repository**
 
-➡️ **[HydroVisionAI](https://github.com/anushkounain/HydroVision-AI)**
+[View HydroVisionAI →](https://github.com/anushkounain/HydroVision-AI)
 
 ---
 
@@ -64,7 +70,7 @@ An AI-powered smart city surveillance platform that detects flooded roads, monit
 
 ## Certifications
 
-- Oracle OCI AI Foundations
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - Google Cloud — AI Infrastructure Skill Badge
 - MongoDB Professional Learning Certification
 - Cloud Computing & AI Workshop
@@ -73,14 +79,6 @@ An AI-powered smart city surveillance platform that detects flooded roads, monit
 
 ## Connect
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/anush-kounain">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:anushkounain45@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+- [LinkedIn](https://www.linkedin.com/in/anush-kounain)
+- [Behance](https://www.behance.net/anushkounain)
+- [Email](mailto:anushkounain45@gmail.com)
