@@ -70,7 +70,6 @@ Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 
 ## Certifications
 
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - Google Cloud — AI Infrastructure Skill Badge
 - MongoDB Professional Learning Certification
 - Cloud Computing & AI Workshop
@@ -79,6 +78,5 @@ Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/anush-kounain)
-- [Behance](https://www.behance.net/anushkounain)
-- [Email](mailto:anushkounain45@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/anush-kounain/)
+- [Email](anushkounain45@gmail.com)
