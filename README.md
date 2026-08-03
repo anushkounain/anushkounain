@@ -4,9 +4,9 @@
 
 ### AI Developer • Computer Vision • UI/UX Designer
 
-Building intelligent applications with a focus on computer vision, AI, and user-centered design.
+Building intelligent applications with a focus on computer vision, AI, and thoughtful user experiences.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Computer+Vision;Artificial+Intelligence;UI%2FUX+Design;Building+Real-World+AI+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Vision;Artificial+Intelligence;UI%2FUX+Design;Building+Real-World+AI+Applications" />
 
 </div>
 
@@ -14,9 +14,9 @@ Building intelligent applications with a focus on computer vision, AI, and user-
 
 ## About
 
-I'm a BCA student specializing in Artificial Intelligence & Machine Learning with a strong interest in developing practical AI applications that solve real-world problems.
+I'm a BCA student specializing in Artificial Intelligence & Machine Learning with a passion for building practical AI solutions.
 
-I enjoy taking ideas from concept to implementation—combining AI, computer vision, and thoughtful user experience design to create products that are both intelligent and intuitive.
+I enjoy taking projects from idea to implementation by combining artificial intelligence, computer vision, and intuitive UI/UX design to create products that solve real-world problems.
 
 ---
 
@@ -30,12 +30,7 @@ I enjoy taking ideas from concept to implementation—combining AI, computer vis
 
 ### AI & Development
 
-- Computer Vision
-- YOLOv11
-- OpenCV
-- Google AI Studio
-- Machine Learning
-- UI/UX Design
+`Computer Vision` • `YOLOv11` • `OpenCV` • `Google AI Studio` • `Machine Learning`
 
 ---
 
@@ -43,7 +38,7 @@ I enjoy taking ideas from concept to implementation—combining AI, computer vis
 
 ### HydroVisionAI
 
-An AI-powered smart city surveillance platform designed to detect flooded roads, monitor vehicles and pedestrians, and provide real-time alerts using computer vision.
+An AI-powered smart city surveillance platform that detects flooded roads, monitors vehicles and pedestrians, and generates real-time alerts using computer vision.
 
 **Built With**
 
@@ -51,39 +46,28 @@ An AI-powered smart city surveillance platform designed to detect flooded roads,
 
 **Repository**
 
-➡️ https://github.com/anushkounain/HydroVisionAI
+➡️ **[HydroVisionAI](https://github.com/anushkounain/HydroVision-AI)**
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
-<p align="center">
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=anushkounain&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkounain&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkounain&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Experience & Interests
-
-- Artificial Intelligence
-- Computer Vision
-- Machine Learning
-- UI/UX Design
-- Software Development
-- Open Source
+</div>
 
 ---
 
 ## Certifications
 
-- MongoDB Professional Learning
-- Google Cloud AI Infrastructure
-- Cloud Computing & AI Workshops
+- Oracle OCI AI Foundations
+- Google Cloud — AI Infrastructure Skill Badge
+- MongoDB Professional Learning Certification
+- Cloud Computing & AI Workshop
 
 ---
 
