@@ -35,7 +35,7 @@ My interests span computer vision, artificial intelligence, and UI/UX design, wh
 
 ### AI & Machine Learning
 
-OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
+OpenCV • YOLOv11 • Google AI Studio
 
 ---
 
@@ -79,7 +79,7 @@ A RAG-powered AI study assistant that processes PDFs, performs semantic search, 
 ## Certifications
 
 - Google Cloud — AI Infrastructure Skill Badge
-- Prompt Engineering Mastery — Cursor AI
+- Prompt Engineering Mastery 
 - UI/UX Case Study Certification
 - MongoDB Professional Learning Certification
 - Cloud Computing & AI Workshop
