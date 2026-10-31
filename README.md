@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Anush Kounain
@@ -20,37 +21,46 @@ My interests span computer vision, artificial intelligence, and UI/UX design, wh
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=dark"/>
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,mongodb,mysql,git,github&theme=dark"/>
 </p>
 
 ### AI & Machine Learning
 
-OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio • Machine Learning
+OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### HydroVisionAI
-
+### HydroVision AI
 An AI-powered smart city surveillance platform designed to detect flooded roads, monitor vehicles and pedestrians, and generate real-time alerts using computer vision.
 
-**Tech Stack**
+**Tech Stack:** Python • OpenCV • YOLOv11
 
-Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
+[View Repository](https://github.com/anushkounain/HydroVision-AI)
 
-**Repository**
+### SentinelGrid
+An occlusion-resistant 3D crowd counting system designed for intelligent crowd monitoring, multi-camera detection, occupancy analysis, and real-time alerts.
 
-[HydroVisionAI](https://github.com/anushkounain/HydroVision-AI)
+**Tech Stack:** Python • YOLO • OpenCV • FastAPI
+
+[View Repository](https://github.com/anushkounain/SentinelGrid)
+
+### Lumina
+A RAG-powered AI study assistant that processes PDFs, performs semantic search, and generates context-aware responses using large language models.
+
+**Tech Stack:** Python • FAISS • Sentence Transformers • Google Gemini API
+
+[View Repository](https://github.com/anushkounain/Lumina-RAG-Study-Assistant)
 
 ---
 
@@ -69,6 +79,8 @@ Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 ## Certifications
 
 - Google Cloud — AI Infrastructure Skill Badge
+- Prompt Engineering Mastery — Cursor AI
+- UI/UX Case Study Certification
 - MongoDB Professional Learning Certification
 - Cloud Computing & AI Workshop
 
@@ -76,14 +88,9 @@ Python • OpenCV • YOLOv11 • TensorFlow.js • Google AI Studio
 
 ## Connect
 
-LinkedIn
-https://www.linkedin.com/in/anush-kounain/
-
-Behance
-https://www.behance.net/anushkounain
-
-Email
-<a href="mailto:anushkounain45@gmail.com">anushkounain45@gmail.com</a>
+- **LinkedIn:** https://www.linkedin.com/in/anush-kounain/
+- **Behance:** https://www.behance.net/anushkounain
+- **Email:** anushkounain45@gmail.com
 
 ---
 
